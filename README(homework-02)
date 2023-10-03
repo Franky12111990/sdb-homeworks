@@ -28,7 +28,7 @@
 
 Ответ:
 ![screenshot](https://github.com/Franky12111990/sdb-homeworks/blob/0ecbed68fc849f50daa194e44e636a5d3c6656f7/%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D1%82%20memcached.png)
-![screenshot](https://github.com/Franky12111990/sdb-homeworks/blob/main/work_script.png)
+![screenshot](https://github.com/Franky12111990/sdb-homeworks/blob/88df52e05fab2565e95717ffb8de96fabef75ae4/work_script.png)
 
 Задание 4. Запись данных в Redis
 Запишите в Redis несколько ключей с любыми именами и значениями.
