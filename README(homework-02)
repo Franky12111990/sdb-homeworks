@@ -36,5 +36,5 @@
 Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.
 
 Ответ:
-![screenshot](https://github.com/Franky12111990/sdb-homeworks/blob/main/redis-key.png)
+![screenshot](https://github.com/Franky12111990/sdb-homeworks/blob/3262940d5e094fc59a7f6f81984e210a7f26946f/redis-key.png)
 
