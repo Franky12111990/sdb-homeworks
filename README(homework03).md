@@ -5,7 +5,8 @@
 
 Решение:
 
-![elasticsearch](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/5f7f181b-a4c3-4af2-a433-08aece97735c)
+![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/293f907f-1484-4c2b-8922-8e969f7fda65)
+
 
 Задание 2. Kibana
 Установите и запустите Kibana.
@@ -13,7 +14,8 @@
 Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pretty.
 
 Решение:
-![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/1d99b2a8-520a-418a-a5be-c715624ed05c)
+![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/9dc1f689-7870-4210-9374-be0613a47a43)
+
 
 Задание 3. Logstash
 Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch.
