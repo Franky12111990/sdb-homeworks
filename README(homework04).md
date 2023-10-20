@@ -53,10 +53,12 @@ $ rabbitmqadmin get queue='hello'
 Приложите скриншот результата работы второго скрипта.
 
 фото rabbitmqctl cluster_status с первой ноды
-![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/1a759d37-bf8b-431b-800a-7e9364674ee9)
+![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/00d8d221-4eee-4460-9a10-897629b1da21)
+
 
 фото rabbitmqctl cluster_status со второй ноды
-![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/87afc2b8-fdeb-4fef-b1e7-ff79b0fea4f1)
+![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/44c10845-d3ee-4531-945a-95a5242b2392)
+
 
 результат работы скрипта
 ![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/a3e9540f-5cbb-469c-9cdb-bbf43fd3494e)
