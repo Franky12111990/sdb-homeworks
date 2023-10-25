@@ -39,6 +39,15 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 ![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/e3de78d6-53a7-4913-bb78-5ad6422d673e)
 
 
+Задание 2
+Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц. Пример: (скриншот/текст)
+
+Решение:
+
+![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/5ca8e2fe-6196-46ef-b8d4-f24fbae079f9)
+
+
+
 
 
 
