@@ -5,22 +5,23 @@
 количество пользователей, закреплённых в этом магазине.
 
 Решение:
-![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/9889a5ea-984a-46dc-bc57-1493cee04b4d)
 
+![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/dce0c268-64bd-4845-b783-e8513e3a1a53)
 
 Задание 2
 Получите количество фильмов, продолжительность которых больше средней продолжительности всех фильмов.
 
 Решение:
 
-![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/a51f7ec1-9efa-4e0e-8fc0-de23ae9261c4)
+![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/1ac7260c-8ffc-4fc9-bb9a-b95eccc6af9a)
 
 
 Задание 3
 Получите информацию, за какой месяц была получена наибольшая сумма платежей, и добавьте информацию по количеству аренд за этот месяц.
 
 Решение:
-![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/c2a812f5-d811-40ea-bb71-f8b0322c8e61)
+![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/c242db5f-084f-4f8a-8068-ccfe42b917aa)
+
 
 
 Задание 4*
@@ -28,7 +29,8 @@
 
 Решение:
 
-![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/82341ed3-fdf9-4105-90a2-2980c50854a2)
+![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/7badc214-70a1-4f4a-8649-989532dc7f94)
+
 
 
 Задание 5*
@@ -36,7 +38,8 @@
 
 Решение:
 
-![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/5be34c1f-44da-47b7-b668-b28d5b40aa44)
+![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/5bd3d98e-cc8e-4c4f-9636-1133bd212e29)
+
 
 
 
