@@ -5,7 +5,7 @@
 количество пользователей, закреплённых в этом магазине.
 
 Решение:
-![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/effc2a3b-0066-4294-87e7-a241e40a3f71)
+![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/9889a5ea-984a-46dc-bc57-1493cee04b4d)
 
 
 Задание 2
@@ -13,27 +13,30 @@
 
 Решение:
 
-![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/6b444507-fc53-4675-9d42-dbb664cab5d8)
+![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/a51f7ec1-9efa-4e0e-8fc0-de23ae9261c4)
 
 
 Задание 3
 Получите информацию, за какой месяц была получена наибольшая сумма платежей, и добавьте информацию по количеству аренд за этот месяц.
 
 Решение:
-![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/0203509a-ab41-4eb5-8890-c227ea670fbc)
+![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/c2a812f5-d811-40ea-bb71-f8b0322c8e61)
+
 
 Задание 4*
 Посчитайте количество продаж, выполненных каждым продавцом. Добавьте вычисляемую колонку «Премия». Если количество продаж превышает 8000, то значение в колонке будет «Да», иначе должно быть значение «Нет».
 
 Решение:
 
-![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/974987e5-ed99-4aae-a2e4-1a6fad4f8411)
+![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/82341ed3-fdf9-4105-90a2-2980c50854a2)
+
 
 Задание 5*
 Найдите фильмы, которые ни разу не брали в аренду.
 
 Решение:
 
-![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/16187f87-ff02-4c06-bb3c-933cddb548ad)
+![image](https://github.com/Franky12111990/sdb-homeworks/assets/121640886/5be34c1f-44da-47b7-b668-b28d5b40aa44)
+
 
 
