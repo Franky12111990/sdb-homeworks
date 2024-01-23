@@ -130,6 +130,9 @@ Ritchie Blackmore	Russia
 Решение:
 
 <img width="866" alt="image" src="https://github.com/Franky12111990/sdb-homeworks/assets/121640886/79dbfdd7-5fe6-471b-abe3-f4e92e8e045e">
+<img width="401" alt="image" src="https://github.com/Franky12111990/sdb-homeworks/assets/121640886/3ad863e6-48ef-47f5-8844-06cc327b4bfa">
+<img width="490" alt="image" src="https://github.com/Franky12111990/sdb-homeworks/assets/121640886/5df2cce8-e975-45ea-8997-9d4abe016dbf">
+
 
 Новый контейнер с бекапом
 <img width="764" alt="image" src="https://github.com/Franky12111990/sdb-homeworks/assets/121640886/2b0312a6-c4c5-4c4c-a7ec-5456f178971b">
