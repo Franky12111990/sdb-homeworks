@@ -46,7 +46,7 @@ https://hub.docker.com/repository/docker/franky12111990/hub/general
 <img width="937" alt="image" src="https://github.com/Franky12111990/sdb-homeworks/assets/121640886/c04ec09d-d07d-4f5d-ad0a-5f51ff582eef">
 
 
-индексы "ind-2" и "ind-3" находятся в состоянии "yellow", потому что для шардов существует заданное количество реплик, но эти реплики не могут быть созданы.
+Индексы "ind-2" и "ind-3" находятся в состоянии "yellow", потому что для шардов существует заданное количество реплик, но эти реплики не могут быть созданы.
 
 
 Задача 3
@@ -78,6 +78,19 @@ https://hub.docker.com/repository/docker/franky12111990/hub/general
 
 
 Решение:
+
+<img width="937" alt="image" src="https://github.com/Franky12111990/sdb-homeworks/assets/121640886/1eaa55b5-8ac3-4ff7-9b36-efe8288fd56c">
+
+<img width="937" alt="image" src="https://github.com/Franky12111990/sdb-homeworks/assets/121640886/e22ceb50-eccb-447a-8f13-c9f4017120ad">
+
+<img width="924" alt="image" src="https://github.com/Franky12111990/sdb-homeworks/assets/121640886/ca97d722-bf85-47ee-8ecc-b21c71c3a43e">
+
+<img width="924" alt="image" src="https://github.com/Franky12111990/sdb-homeworks/assets/121640886/418e8ce4-8d6f-46ff-a8e9-0c4640b4291f">
+
+<img width="952" alt="image" src="https://github.com/Franky12111990/sdb-homeworks/assets/121640886/065ec877-1968-4051-9fd6-87ca617e1c86">
+
+
+
 
 
 
